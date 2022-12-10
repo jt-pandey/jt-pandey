@@ -17,6 +17,6 @@ Student at [Army Institute of Technology, Pune](https://aitpune.com)
 
 - :seedling: Exploring Web Development and Cloud Computing.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sauravbhise-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jtpandey/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jtpandey-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jtpandey/)
 
 ---
